@@ -20,8 +20,10 @@ This project performs Exploratory Data Analysis (EDA) on the Auto MPG dataset us
 - Matplotlib
 - Seaborn
 
-## How to Run
-
-```bash
-pip install pandas numpy matplotlib seaborn
-python app.py
+  
+Insights
+Fuel efficiency improves across model years.
+Japanese cars generally have higher MPG.
+Heavier vehicles usually have lower MPG.
+Higher horsepower generally reduces MPG.
+4-cylinder engines dominate the dataset.
